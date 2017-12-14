@@ -1,0 +1,39 @@
+@media (min-width: 320px) and (max-width: 1024px) {
+  [class*="col-"] {
+    max-width: 100%;
+    flex: none;
+  }
+
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    background: linear-gradient(#530060, #DB0A88);
+    background-repeat: no-repeat;
+    height: 100vh;
+  }
+
+  #logo img {
+    width: 70%;
+    height: 30vh;
+    margin-left: 18%;
+    margin-top: 60%;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
